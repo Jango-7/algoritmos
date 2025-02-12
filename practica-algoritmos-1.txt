@@ -2,7 +2,7 @@ Problematica:
 El usuario quiere saber cuantas letras tiene una palabra.
 
 Algoritmo:
-1. Solucitar al user que ingrese una palabra.
+1. Solicitar al user que ingrese una palabra.
 2. Contamos la cantidad de letras que tiene la palabra ingresada.
 3. Mostramos cuantas letras tiene dicha palabra.
 
@@ -21,3 +21,4 @@ Inicio del programa
     mostrar mensaje: "La palabra ingresada tiene ", cantidad_letras, "letras"
 
 fin del programa
+
